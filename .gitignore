@@ -1,0 +1,4 @@
+*.pyc
+*~
+save.json
+.idea/
